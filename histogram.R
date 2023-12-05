@@ -1,0 +1,1 @@
+hist(Seatbelts$DriversKilled, breaks = 20)

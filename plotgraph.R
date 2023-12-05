@@ -1,0 +1,1 @@
+plot(Seatbelts$date, Seatbelts$DriversKilled)
